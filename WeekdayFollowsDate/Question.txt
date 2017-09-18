@@ -1,0 +1,2 @@
+Figue out the max number of weeks in a year that the weekday is same as the single digit of date, only full match is considered.
+For example, Wednesday can match with 03, 13, or 23. Monday cannot match with 31, because it's not full match.
